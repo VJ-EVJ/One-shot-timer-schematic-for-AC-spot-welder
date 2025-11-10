@@ -1,5 +1,5 @@
 # One-shot Timer Schematic for AC Spot Welder
-
+![Spot Welder Timer Circuit by Vytautas Janusonis (EVJ)](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/spot%20welder's%20timer%20circuit%20by%20Vytautas%20Janusonis%20(EVJ)%202021-10-07.jpg)
 A **monostable (one-shot)** timer schematic for AC spot welders.  
 Triggered by a push button, it controls an **SSR relay** for a preset weld duration.  
 Features adjustable timing range, two operating modes (auto/manual), and an optional LED indicator output on pin 3 of the 555 IC.
