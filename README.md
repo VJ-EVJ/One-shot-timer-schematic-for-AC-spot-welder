@@ -84,7 +84,7 @@ This project is licensed under CC BY-NC-SA 4.0. See LICENSE.md for full details.
 - https://github.com/VJ-EVJ
 
 Example attribution:
-"Original schematic by EVJ — linkedin.com/in/EVJ"
+"Original schematic by EVJ — https://linkedin.com/in/vytautasjanusonis"
 
 ---
 
