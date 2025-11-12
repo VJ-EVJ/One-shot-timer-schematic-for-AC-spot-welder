@@ -89,15 +89,15 @@ Example attribution:
 
 ---
 
-![First version of fully functional spot welder device for cells of batteries](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/Pictures/old_version_of_spot_welder_for_batteries_cells.jpg)
 ### 🧰 First version of fully functional spot welder device for battery cells
+![First version of fully functional spot welder device for cells of batteries](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/Pictures/old_version_of_spot_welder_for_batteries_cells.jpg)
 
 ---
 
-![Upgraded version of fully functional spot welder device for cells of batteries](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/Pictures/finished_spot_welder_for_batteries_cells.jpg)
 ### ⚙️ Upgraded version of fully functional spot welder device for battery cells
+![Upgraded version of fully functional spot welder device for cells of batteries](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/Pictures/finished_spot_welder_for_batteries_cells.jpg)
 
 ---
 
-![Experimental version of spot welder device for steel sheets](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/Pictures/machine%20for%20welding%20steel%20sheets.jpg)
 ### 🧪 Experimental version of spot welder device for steel sheets
+![Experimental version of spot welder device for steel sheets](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/Pictures/machine%20for%20welding%20steel%20sheets.jpg)
