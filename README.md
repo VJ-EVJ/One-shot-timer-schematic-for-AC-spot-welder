@@ -26,7 +26,7 @@ The SSR output remains active for the entire set duration, regardless of how lon
 
 ### **Mode B – Manual**
 When switch **SW3** is *closed*, the SSR turns off immediately if SW1 is released before the timer finishes counting.  
-This mode is useful for lonnger welds (in the range of seconds) when the operator may want to **abort the weld instantly** if the spot begins to overheat or burn.
+This mode is useful for longer welds (in the range of seconds) when the operator may want to **abort the weld instantly** if the spot begins to overheat or burn.
 
 ---
 
