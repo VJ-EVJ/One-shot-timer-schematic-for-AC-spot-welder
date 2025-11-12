@@ -14,6 +14,7 @@ It starts timing when the **trigger button (SW1)** is pressed and automatically 
 ---
 
 ![Spot Welder Timer Circuit by Vytautas Janusonis (EVJ)](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/spot%20welder's%20timer%20circuit%20by%20Vytautas%20Janusonis%20(EVJ)%202021-10-07.jpg)
+*Fig. 1 – Spot welder timer schematic (by Vytautas Janusonis / EVJ, 2021-10-07)*
 
 ---
 
@@ -75,13 +76,28 @@ Feedback and suggestions are always welcome — feel free to share your results 
 
 ---
 
+## License
+
+This project is licensed under CC BY-NC-SA 4.0. See LICENSE.md for full details.
+
+**Attribution required:** If you use, adapt, or redistribute the schematics, please credit the author with one of the following links:
+- https://linkedin.com/in/vytautasjanusonis
+- https://github.com/VJ-EVJ
+
+Example attribution:
+"Original schematic by EVJ — https://www.linkedin.com/in/EVJ"
+
+---
+
 ![First version of fully functional spot welder device for cells of batteries](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/Pictures/old_version_of_spot_welder_for_batteries_cells.jpg)
+### 🧰 First version of fully functional spot welder device for battery cells
 
 ---
 
 ![Upgraded version of fully functional spot welder device for cells of batteries](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/Pictures/finished_spot_welder_for_batteries_cells.jpg)
+### ⚙️ Upgraded version of fully functional spot welder device for battery cells
 
 ---
 
 ![Experimental version of spot welder device for steel sheets](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/Pictures/machine%20for%20welding%20steel%20sheets.jpg)
-
+### 🧪 Experimental version of spot welder device for steel sheets
