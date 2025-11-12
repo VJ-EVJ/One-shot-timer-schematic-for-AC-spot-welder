@@ -1,8 +1,7 @@
 # One-shot Timer Schematic for AC Spot Welder
 
-A **monostable (one-shot)** timer schematic for AC spot welders.  
-Triggered by a push button, it controls an **SSR relay** for a preset weld duration.  
-Features adjustable timing range, two operating modes (auto/manual), and an optional LED indicator output on pin 3 of the 555 IC.
+A monostable (one-shot) timer circuit designed to control the weld duration of an AC spot welder through an SSR relay.
+It is triggered by a push button and offers an adjustable timing range with two selectable operating modes — automatic and manual.
 
 ---
 
@@ -26,7 +25,7 @@ The SSR output remains active for the entire set duration, regardless of how lon
 
 ### **Mode B – Manual**
 When switch **SW3** is *closed*, the SSR turns off immediately if SW1 is released before the timer finishes counting.  
-This mode is useful for longer welds (in the range of seconds) when the operator may want to **abort the weld instantly** if the spot begins to overheat or burn.
+This mode is useful for longer welds (in the range of seconds) when the operator may want to **stop the weld instantly** if the spot begins to overheat or burn.
 
 ---
 
@@ -85,7 +84,7 @@ This project is licensed under CC BY-NC-SA 4.0. See LICENSE.md for full details.
 - https://github.com/VJ-EVJ
 
 Example attribution:
-"Original schematic by EVJ — https://www.linkedin.com/in/EVJ"
+"Original schematic by EVJ — linkedin.com/in/EVJ"
 
 ---
 
