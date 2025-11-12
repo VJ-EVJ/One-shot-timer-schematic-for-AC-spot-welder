@@ -6,14 +6,14 @@ Features adjustable timing range, two operating modes (auto/manual), and an opti
 
 ---
 
-![Spot Welder Timer Circuit by Vytautas Janusonis (EVJ)](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/spot%20welder's%20timer%20circuit%20by%20Vytautas%20Janusonis%20(EVJ)%202021-10-07.jpg)
-
----
-
 ## ⚙️ Overview
 
 This circuit functions as a **monostable timer** designed to control the **weld duration** of an AC spot welding transformer via an **SSR (Solid-State Relay)**.  
 It starts timing when the **trigger button (SW1)** is pressed and automatically turns off the SSR after the preset time expires.
+
+---
+
+![Spot Welder Timer Circuit by Vytautas Janusonis (EVJ)](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/spot%20welder's%20timer%20circuit%20by%20Vytautas%20Janusonis%20(EVJ)%202021-10-07.jpg)
 
 ---
 
@@ -74,4 +74,14 @@ I hope it proves useful in your projects!
 Feedback and suggestions are always welcome — feel free to share your results or improvements.
 
 ---
+
+![First version of fully functional spot welder device for cells of batteries](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/Pictures/old_version_of_spot_welder_for_batteries_cells.jpg)
+
+---
+
+![Upgraded version of fully functional spot welder device for cells of batteries](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/Pictures/finished_spot_welder_for_batteries_cells.jpg)
+
+---
+
+![Experimental version of spot welder device for steel sheets](https://github.com/VJ-EVJ/One-shot-timer-schematic-for-AC-spot-welder/blob/main/Pictures/machine%20for%20welding%20steel%20sheets.jpg)
 
